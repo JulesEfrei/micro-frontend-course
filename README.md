@@ -17,23 +17,27 @@ npm install
 npm start
 ```
 
-L'application demarre sur http://localhost:3000
+L'application demarre sur <http://localhost:3000>
 
 ## Votre Mission
 
 ### Objectif
+
 Changer la couleur du bouton "JOIN" dans le Lobby de **bleu** (#3b82f6) vers **vert** (#10b981).
 
 ### Fichier a modifier
+
 `src/components/Lobby.css`
 
 ### Ce que vous devez faire
+
 1. Ouvrir `src/components/Lobby.css`
 2. Trouver la classe `.button`
 3. Changer `background: #3b82f6` en `background: #10b981`
 4. Sauvegarder
 
 ### Resultat attendu
+
 Seul le bouton "JOIN" du Lobby devrait devenir vert.
 
 ---
